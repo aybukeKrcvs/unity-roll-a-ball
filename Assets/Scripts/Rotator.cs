@@ -1,3 +1,4 @@
+// Rotator.cs
 using UnityEngine;
 
 public class Rotator : MonoBehaviour
